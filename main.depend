@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732373969 source:d:\kuliah semester 3\praktikum struktur data\graph\main\main.cpp
+	<iostream>
+	"graph.h"
+
+1732373369 d:\kuliah semester 3\praktikum struktur data\graph\main\graph.h
+	<iostream>
+
+1732373717 source:d:\kuliah semester 3\praktikum struktur data\graph\main\graph.cpp
+	"graph.h"
+	<iostream>
+
